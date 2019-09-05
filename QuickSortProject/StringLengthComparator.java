@@ -1,4 +1,4 @@
-package proj6;
+package QuickSortProject;
 
 import java.util.Comparator;
 
