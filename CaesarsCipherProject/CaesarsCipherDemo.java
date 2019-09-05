@@ -1,4 +1,4 @@
-package proj3;
+package CaesarsCipherProject;
 
 import java.util.Scanner;
 
