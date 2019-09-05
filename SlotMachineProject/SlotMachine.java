@@ -1,4 +1,4 @@
-package proj1;
+package SlotMachineProject;
 
 import java.util.Random;
 
