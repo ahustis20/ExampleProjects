@@ -1,4 +1,4 @@
-package proj1;
+package SlotMachineProject;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
