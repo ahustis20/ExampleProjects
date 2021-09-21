@@ -1,11 +1,11 @@
 # Projects
-This repository contains different projects that I have completed in Java and Python respectively. 
+This repository contains different projects that I have completed throughout my time at Montana State University. 
 
 <h3>
   CSCI 446 - Artifical Intelligence – Sudoku Solver
   </h3>
   <p>
-  This projects reads in a .csv file with an incomplete sudoku puzzle and solves it uses multiple different algorithms; Backtracking, Backtracking with Forward Checking, Genetic Algorithm and Simulated Annealing. This was a partner project completed with Max Lineberger. I wrote the Genetic Algorithm and the Backtracking with Forward Checking. The other two were written by Max.
+  This projects reads in a .csv file with an incomplete sudoku puzzle and solves it uses multiple different algorithms; Backtracking, Backtracking with Forward Checking, Genetic Algorithm and Simulated Annealing. I wrote the Genetic Algorithm and the Backtracking with Forward Checking. The other two were written by my partner Max Lineberger.
   </p>
 
 <h3>
